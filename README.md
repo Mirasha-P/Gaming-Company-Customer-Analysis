@@ -1,4 +1,4 @@
-# Gaming Industry Customer Analysis Project
+# Gaming Industry Predictive Analysis Project
 
 ## Project Overview
 This project presents a comprehensive analysis of customer behavior and loyalty in the gaming industry. It aims to enhance understanding of customer engagement, loyalty programs, and purchasing patterns to drive data-informed business strategies. The analysis combines techniques from both R and Python, showcasing a multi-faceted approach to data science in the gaming sector.
